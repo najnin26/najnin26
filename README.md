@@ -16,6 +16,10 @@
   <a href="https://www.sololearn.com/en/profile/18381710" target="_blank">
      <img src="https://img.shields.io/badge/-Sololearn-3a464b?style=for-the-badge&logo=Sololearn&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
+  <a href="https://www.hackerrank.com/profile/najninshirin26" target="_blank">
+     <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
+     
 </div>
 
  <hr/>
