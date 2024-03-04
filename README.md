@@ -26,7 +26,6 @@
     <img src="https://skillicons.dev/icons?i=python,firebase,flutter,c,java,mysql" /><br>
 </div>
 
-<br/>
  <hr/>
 <h2 align="center">⭐ My stats ⭐</h2>
 
