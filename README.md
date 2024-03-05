@@ -34,7 +34,7 @@
 <h2 align="center">👩‍💻 My Stats 👩‍💻</h2>
 
 <div align="center">
-  <img alt="My GitHub stats" src="https://github-readme-stats.vercel.app/api?username=najnin26&show_icons=true&theme=transparent&text_color=ffffff"/>
-  <img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=najnin26&layout=compact&langs_count=8&theme=transparent&text_color=ffffff"/>
+  <img alt="My GitHub stats" src="https://github-readme-stats.vercel.app/api?username=najnin26&show_icons=true&theme=transparent&text_color=FFFFFF"/>
+  <img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=najnin26&layout=compact&langs_count=8&theme=transparent&text_color=FFFFFF"/>
 </div>
 
