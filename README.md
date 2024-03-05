@@ -31,7 +31,7 @@
 </div>
 
  <hr/>
-<h2 align="center">⭐ My stats ⭐</h2>
+<h2 align="center">👩‍💻 My Stats 👩‍💻</h2>
 
 <div align="center">
   <img alt="My GitHub stats" src="https://github-readme-stats.vercel.app/api?username=najnin26&show_icons=true&theme=transparent&text_color=ffffff"/>
