@@ -27,7 +27,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,php,github,figma" />
-    <img src="https://skillicons.dev/icons?i=python,firebase,flutter,c,java,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=python,firebase,flutter,c,cpp,java,mysql,opencv" /><br>
 </div>
 
  <hr/>
