@@ -8,7 +8,7 @@
 
 🌱 I’m currently learning **Machine Learning, Deep Learning and Computer Vision!**
 
-👯 I’m looking to collaborate on [Computer Vision](https://github.com/najnin26/Computer-Vision-Code)
+👯 I’m looking to collaborate on [Computer Vision](https://github.com/najnin26/Computer-Vision-Code) , [Machine Learning](https://github.com/najnin26/Complete-Machine-Learning-Project)
 
 📫 How to reach me **najninshirin26@gmail.com**
 
