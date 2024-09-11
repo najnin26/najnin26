@@ -10,7 +10,7 @@
 
 👯 I’m looking to collaborate on [Computer Vision](https://github.com/najnin26/Computer-Vision-Code) , [Machine Learning](https://github.com/najnin26/Complete-Machine-Learning-Project)
 
-📫 How to reach me **najninshirin26@gmail.com**
+📫 How to reach me **najninshirin26@gmail.com** , [Najnin Shirin](www.linkedin.com/in/najnin-shirin-a909262a6)
 
 ### :handshake: Profile Views
 [![](https://visitcount.itsvg.in/api?id=najnin26&icon=0&color=1)](https://visitcount.itsvg.in)
