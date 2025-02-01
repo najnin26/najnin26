@@ -12,9 +12,6 @@
 
 📫 How to reach me **najninshirin26@gmail.com** .
 
-### :handshake: Profile Views
-[![](https://visitcount.itsvg.in/api?id=najnin26&icon=0&color=1)](https://visitcount.itsvg.in)
-
  <hr/>
  
 # 💻 Tech Stack:
