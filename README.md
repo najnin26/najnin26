@@ -12,6 +12,9 @@
 
 📫 How to reach me **najninshirin26@gmail.com** .
 
+<hr/>
+
+# 🚀 Featured Projects
  <hr/>
  
 # 💻 Tech Stack:
