@@ -23,6 +23,8 @@
 🏥 [**Chest X-ray Pneumonia Detection**](https://github.com/najnin26/Chest_X-ray_Classification) 
 
 👁️ [**Retinal Disease Classification with Vision Transformer (ViT)**](https://github.com/najnin26/Retinal-Disease) 
+
+🌐 [**Suicidal Risk Detection using Graph Neural Networks**](https://github.com/najnin26/Suicide-Risk-Detection)
  <hr/>
  
 # 💻 Tech Stack:
