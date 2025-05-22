@@ -19,6 +19,8 @@
 🎯 [**Facial Emotion Recognition using CNN & QCNN**](https://github.com/najnin26/Facial-Emotion-Recognition-Quantum)
 
 🧠 [**Mental Health Sentiment Analysis**](https://github.com/najnin26/Data-Science-Project) 
+
+🏥 [**Chest X-ray Pneumonia Detection**](https://github.com/najnin26/Chest_X-ray_Classification) 
  <hr/>
  
 # 💻 Tech Stack:
