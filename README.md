@@ -14,7 +14,9 @@
 
 <hr/>
 
-# 🚀 Featured Projects
+# 🚀 Featured Projects:
+
+- 🎯 [**Facial Emotion Recognition using CNN & QCNN**](https://github.com/najnin26/Facial-Emotion-Recognition-Quantum)  
  <hr/>
  
 # 💻 Tech Stack:
