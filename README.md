@@ -7,7 +7,9 @@
 ## 🔭 Currently Working On
 🚀 [Computer Vision](https://github.com/najnin26/Computer-Vision-Code)  
 🤖 [Machine Learning](https://github.com/najnin26/Complete-Machine-Learning-Project)  
-
+🧠 Artificial Intelligence (AI)  
+⚛️ Quantum Machine Learning (QML)  
+📊 Data Science
 
 🌱 I’m currently learning **Artificial Intelligence (AI), Machine Learning, Deep Learning and Computer Vision!**
 
