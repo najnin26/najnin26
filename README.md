@@ -98,7 +98,6 @@
   <img src="https://github-contributor-stats.vercel.app/api?username=najnin26&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Top Contributions" />
 </picture>
 
----
 <div align="center"> 
   <p>
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=najnin26&theme=github&hide_border=true" />
