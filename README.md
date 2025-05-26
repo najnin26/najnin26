@@ -16,7 +16,7 @@
 
 # 🚀 Featured Projects:
 
-🎯 [**Facial Emotion Recognition using CNN & QCNN**](https://github.com/najnin26/Facial-Emotion-Recognition-Quantum)
+🎯 [**Facial Emotion Recognition using CNN & QCNN**](https://github.com/najnin26/Facial-Emotion-Recognition)
 
 🧠 [**Mental Health Sentiment Analysis**](https://github.com/najnin26/Data-Science-Project) 
 
