@@ -5,6 +5,8 @@
 👩🏻‍🎓 Studies Computer Science at the Jagannath University, Bangladesh<br>
 
 ## 🔭 Currently Working On
+🚀 [Computer Vision](https://github.com/najnin26/Computer-Vision-Code)  
+🤖 [Machine Learning](https://github.com/najnin26/Complete-Machine-Learning-Project)  
 
 
 🌱 I’m currently learning **Artificial Intelligence (AI), Machine Learning, Deep Learning and Computer Vision!**
