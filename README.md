@@ -2,21 +2,12 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Najnin+Shirin!;" />
 </h1>
 
-👩🏻‍🎓 Studies Computer Science at the Jagannath University, Bangladesh<br>
+🎓 I'm a final-year Computer Science student at [Jagannath University, Bangladesh](https://www.jnu.ac.bd/).
 
-## 🔭 Currently Working On
-🚀 [Computer Vision](https://github.com/najnin26/Computer-Vision-Code)  
-🤖 [Machine Learning](https://github.com/najnin26/Complete-Machine-Learning-Project)  
-🧠 Artificial Intelligence (AI)  
-⚛️ Quantum Machine Learning (QML)  
-📊 Data Science
-
-🌱 I’m currently learning **Artificial Intelligence (AI), Machine Learning, Deep Learning and Computer Vision!**
-
-👯 I’m looking to collaborate on [Computer Vision](https://github.com/najnin26/Computer-Vision-Code) , [Machine Learning](https://github.com/najnin26/Complete-Machine-Learning-Project)
-
-📫 How to reach me **najninshirin26@gmail.com** .
-
+🚀 Passionate about building intelligent systems that make a difference, especially in the fields of:
+- 🧠 **Machine Learning**
+- 🤖 **Deep Learning**
+- 👁️‍🗨️ **Computer Vision**
 ---
 
 # 🚀 Featured Projects:
