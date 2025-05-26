@@ -5,9 +5,14 @@
 🎓 I'm a final-year Computer Science student at [Jagannath University, Bangladesh](https://www.jnu.ac.bd/).
 
 🚀 Passionate about building intelligent systems that make a difference, especially in the fields of:
+- 🧬 **Quantum Machine Learning**
 - 🧠 **Machine Learning**
 - 🤖 **Deep Learning**
 - 👁️‍🗨️ **Computer Vision**
+- 📊 **Data Science**
+  
+👯 I’m eager to collaborate on cutting-edge, research-driven projects in **Quantum Machine Learning**, **Artificial Intelligence**, **Machine Learning**, **Deep Learning** and **Computer Vision**, especially those with real-world impact.
+
 ---
 
 # 🚀 Featured Projects:
