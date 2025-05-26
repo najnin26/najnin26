@@ -99,10 +99,11 @@
 </picture>
 
 ---
+<div align="center"> 
+  <p>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=najnin26&theme=github&hide_border=true" />
+  </p>
+</div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/najnin26/najnin26/blob/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/najnin26/najnin26/blob/output/github-snake.svg" />
-  <img alt="github-snake" src="https://github.com/najnin26/najnin26/blob/output/github-snake-dark.svg" />
-</picture>
+
 
