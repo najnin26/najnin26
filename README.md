@@ -13,6 +13,16 @@
   
 👯 I’m eager to collaborate on cutting-edge, research-driven projects in **Quantum Machine Learning**, **Artificial Intelligence**, **Machine Learning**, **Deep Learning** and **Computer Vision**, especially those with real-world impact.
 
+📫 **How to reach me:**
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:najninshirin26@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/najnin-shirin-a909262a6)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Najnin26)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/najninshirin)
+
+
+🌱 _Curious by nature, coder by choice._
+
 ---
 
 # 🚀 Featured Projects:
