@@ -32,10 +32,10 @@
 | **Facial Emotion Recognition using CNN & QCNN** | Hybrid classical & quantum CNN model for emotion detection. | `TensorFlow`, `PennyLane`, `OpenCV`, `Python` | [🔗GitHub](https://github.com/najnin26/Facial-Emotion-Recognition) |
 | **Mental Health Sentiment Analysis** | Analyzing mental health sentiment using ML, DL, LLMs & QML. | `BERT`, `LSTM`, `CNN`, `QCNN`, `QLSTM` | [🔗GitHub](https://github.com/najnin26/Mental-Health-Sentiment-Analysis) |
 | **Diabetes Prediction Web App** | FastAPI-based ML app deployed with Docker and Kubernetes. | `FastAPI`, `Docker`, `Kubernetes`, `scikit-learn` | [🔗GitHub](https://github.com/najnin26/Cloud-Computing-Project) |
-| **Suicidal Risk Detection** | Multimodal suicide risk detection using text, audio, and visual features. | `BERT`, `BiLSTM`, `GNN`, `PyTorch` | [🔗GitHub](https://github.com/najnin26/Suicide-Risk-Detection) |
+| **Suicidal Text Detection via Dependency Graphs** |  Dependency-based graph modeling with BERT node features. | `BERT`, `BiLSTM`, `GNN`, `PyTorch` | [🔗GitHub](https://github.com/najnin26/Suicide-Risk-Detection) |
 | **Research Paper Recommendation & Subject Area Prediction** | Recommendation system and subject area prediction using LLMs and Deep Learning. | `LLM`, `Deep Learning`, `Python` | [🔗GitHub](https://github.com/najnin26/Research-Paper-Recommandation-System) |
 | **Vision Transformer for Retinal Disease** | Transformer-based image classifier for retinal diseases. | `PyTorch`, `ViT`, `HuggingFace`, `ODIR5K` | [🔗GitHub](https://github.com/najnin26/Retinal-Disease) |
-| **Suicidal Text Detection via Dependency Graphs** | Dependency-based graph modeling with BERT node features. | `BERT`, `Dependency Parsing`, `PyG`, `GNN` | [🔗GitHub](https://github.com/najnin26/Suicidal-Text-Detection) |
+| **** | Dependency-based graph modeling with BERT node features. | `BERT`, `Dependency Parsing`, `PyG`, `GNN` | [🔗GitHub](https://github.com/najnin26/Suicidal-Text-Detection) |
 
 
 
