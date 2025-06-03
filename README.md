@@ -35,7 +35,7 @@
 | **Suicidal Text Detection via Dependency Graphs** |  Dependency-based graph modeling with BERT node features. | `BERT`, `BiLSTM`, `GNN`, `PyTorch` | [🔗GitHub](https://github.com/najnin26/Suicide-Risk-Detection) |
 | **Research Paper Recommendation & Subject Area Prediction** | Recommendation system and subject area prediction using LLMs and Deep Learning. | `LLM`, `Deep Learning`, `Python` | [🔗GitHub](https://github.com/najnin26/Research-Paper-Recommandation-System) |
 | **Vision Transformer for Retinal Disease** | Transformer-based image classifier for retinal diseases. | `PyTorch`, `ViT`, `HuggingFace`, `ODIR5K` | [🔗GitHub](https://github.com/najnin26/Retinal-Disease) |
-| **** | Dependency-based graph modeling with BERT node features. | `BERT`, `Dependency Parsing`, `PyG`, `GNN` | [🔗GitHub](https://github.com/najnin26/Suicidal-Text-Detection) |
+| **** | Dependency-based graph modeling with BERT node features. | `BERT`, `Dependency Parsing`, `PyG`, `GNN` | [🔗GitHub](https://github.com/najnin26/Skin-Cancer-Detection) |
 
 
 
