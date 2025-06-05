@@ -36,7 +36,7 @@
 | **Research Paper Recommendation & Subject Area Prediction** | Recommendation system and subject area prediction using LLMs and Deep Learning. | `LLM`, `Deep Learning`, `Python` | [🔗GitHub](https://github.com/najnin26/Research-Paper-Recommandation-System) |
 | **Vision Transformer for Retinal Disease** | Transformer-based image classifier for retinal diseases. | `PyTorch`, `ViT`, `HuggingFace`, `ODIR5K` | [🔗GitHub](https://github.com/najnin26/Retinal-Disease) |
 | **Skin Cancer Detection** | Skin cancer detection using CNNs and Vision Transformers with dependency-based graph modeling from image descriptions. | `CNN`, `ViT`, `BERT`, `Dependency Parsing`, `PyG`, `GNN` | [🔗GitHub](https://github.com/najnin26/Skin-Cancer-Detection) |
-| **Brain Tumor Classification**    | Classification of brain tumor types using Convolutional Neural Networks on MRI images.                | `CNN`, `PyTorch`, `Medical Imaging`, `MRI`               | [🔗GitHub](https://github.com/najnin26/Brain-Tumor-CNN)     |
+| **Brain Tumor Classification**    | Classification of brain tumor types using Convolutional Neural Networks on MRI images.                | `CNN`, `PyTorch`, `Medical Imaging`, `MRI`               | [🔗GitHub](https://github.com/najnin26/Brain-Tumor-Classification)     |
 
 
 
