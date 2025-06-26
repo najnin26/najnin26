@@ -1,5 +1,23 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=I'm%20Najnin%20Shirin!&fontColor=black&animation=twinkling&textBg=false&fontAlign=50&fontSize=50&rotate=0&descAlign=50&desc=ML%20|%20DL%20|%20Quantum%20ML%20|%20Data%20Science%20Enthusiast&descSize=30&descAlignY=46&fontAlignY=25" />
+<div align="center" style="line-height: 1.4;">
+
+  <!-- Capsule Render Banner -->
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&text=I'm%20Najnin%20Shirin!%20👋&fontColor=000000&animation=twinkling&textBg=false&fontAlign=50&fontSize=54&rotate=0&desc=ML%20|%20DL%20|%20Quantum%20ML%20|%20Data%20Science%20Enthusiast&descSize=28&descAlign=50&descAlignY=52&fontAlignY=30"
+    alt="Header Banner"
+    style="margin-bottom: 25px;"
+  />
+
+  <!-- Typing SVG with colorful gradient & shadow -->
+  <img
+    src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=38&center=true&vCenter=true&width=520&height=80&duration=4000&pause=1500&color=gradient&background=00000000&lines=Curious+by+nature+✨;+Coder+by+choice+💻"
+    alt="Typing Animation"
+    style="filter: drop-shadow(2px 2px 3px rgba(0,0,0,0.3));"
+  />
+
+</div>
+
+
+
 </div>
 
 # 📋 Professional Summary
@@ -16,23 +34,11 @@
 
 📫 **How to reach me:**
 
-<div align="center">
-  <a href="mailto:najninshirin26@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://www.linkedin.com/in/najnin-shirin-a909262a6" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://x.com/Najnin26" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white" alt="X (Twitter)" />
-  </a>
-  <a href="https://www.facebook.com/najninshirin" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=najnin26" alt="Profile Views" />
-</div>
-
-
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:najninshirin26@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/najnin-shirin-a909262a6)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Najnin26)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/najninshirin)
+![Profile Views](https://komarev.com/ghpvc/?username=najnin26&style=for-the-badge&color=0e75b6&label=Profile+Views)
 
 🌱 _Curious by nature, coder by choice._
 
