@@ -1,6 +1,7 @@
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Najnin+Shirin!;" />
-</h1>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=timeGradient&text=I'm%20Najnin%20Shirin!&fontColor=black&animation=twinkling&textBg=false&fontAlign=50&fontSize=50&rotate=0&descAlign=50&desc=ML%20|%20DL%20|%20Quantum%20ML%20|%20Data%20Science%20Enthusiast&descSize=30&descAlignY=46&fontAlignY=25" />
+</div>
+
 
 🎓 I'm a final-year Computer Science student at [Jagannath University, Bangladesh](https://www.jnu.ac.bd/).
 
