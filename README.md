@@ -1,7 +1,6 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=I'm%20Najnin%20Shirin!&fontColor=black&animation=twinkling&textBg=false&fontAlign=50&fontSize=50&rotate=0&descAlign=50&desc=ML%20|%20DL%20|%20Quantum%20ML%20|%20Data%20Science%20Enthusiast&descSize=30&descAlignY=46&fontAlignY=25" />
 </div>
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=najnin26&"  />
 
 # 📋 Professional Summary
 🎓 I'm a final-year Computer Science student at [Jagannath University, Bangladesh](https://www.jnu.ac.bd/).
@@ -17,10 +16,22 @@
 
 📫 **How to reach me:**
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:najninshirin26@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/najnin-shirin-a909262a6)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Najnin26)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/najninshirin)
+<div align="center">
+  <a href="mailto:najninshirin26@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/najnin-shirin-a909262a6" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://x.com/Najnin26" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white" alt="X (Twitter)" />
+  </a>
+  <a href="https://www.facebook.com/najninshirin" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=najnin26" alt="Profile Views" />
+</div>
+
 
 
 🌱 _Curious by nature, coder by choice._
