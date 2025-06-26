@@ -106,17 +106,20 @@
 
 ### 🔝 Top Contributed Repo
 
-<picture>
-  <source srcset="https://github-contributor-stats.vercel.app/api?username=najnin26&limit=5&theme=radical&combine_all_yearly_contributions=true" media="(prefers-color-scheme: dark)" />
-  <source srcset="https://github-contributor-stats.vercel.app/api?username=najnin26&limit=5&theme=light&combine_all_yearly_contributions=true" media="(prefers-color-scheme: light)" />
-  <img src="https://github-contributor-stats.vercel.app/api?username=najnin26&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Top Contributions" />
-</picture>
-
-<div align="center"> 
-  <p>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=najnin26&theme=github&hide_border=true" />
-  </p>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=najnin26&theme=github&hide_border=true" />
 </div>
+
+<div align="center">
+  <img height="200px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=najnin26&theme=radical" alt="GitHub Profile Summary" />
+</div>
+
+<div align="center">
+  <img height="180px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=najnin26&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="49%" />
+</div>
+
+<br/>
+
 
 
 
