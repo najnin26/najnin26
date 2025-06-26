@@ -82,11 +82,11 @@
 </div>
 
 <div align="center">
-  <img height="200px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=najnin26&theme=radical" alt="GitHub Profile Summary" />
+  <img height="200px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=najnin26&theme=radical&include_all_commits=true&count_private=true&hide_border=false&count_private=true" alt="GitHub Profile Summary" />
 </div>
 
 <div align="center">
-  <img height="180px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=najnin26&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="49%" />
+  <img height="200px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=najnin26&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=false&count_private=true" alt="GitHub Stats" width="80%" />
 </div>
 
 # 🏆 GitHub Trophies
@@ -105,3 +105,7 @@
   <source srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" media="(prefers-color-scheme: light)" />
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
 </picture>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=fba0e3&text=Thanks%20for%20the%20visit!&fontColor=black&animation=twinkling&textBg=false&fontAlign=50&fontSize=31&rotate=0&descAlign=50&desc=May%20your%20commits%20be%20bug-free.%20🐛🚫&descAlignY=75&fontAlignY=55&section=footer" />
+</div>
