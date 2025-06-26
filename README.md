@@ -1,5 +1,4 @@
 <div align="center" style="line-height: 1.4;">
-
   <!-- Capsule Render Banner -->
   <img
     src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&text=I'm%20Najnin%20Shirin!%20👋&fontColor=000000&animation=twinkling&textBg=false&fontAlign=50&fontSize=54&rotate=0&desc=ML%20|%20DL%20|%20Quantum%20ML%20|%20Data%20Science%20Enthusiast&descSize=28&descAlign=50&descAlignY=52&fontAlignY=30"
@@ -12,10 +11,7 @@
     alt="Typing Animation"
     style="filter: drop-shadow(2px 2px 3px rgba(0,0,0,0.3));"
   />
-
 </div>
-
-
 
 </div>
 
@@ -38,8 +34,6 @@
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Najnin26)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/najninshirin)
 ![Profile Views](https://komarev.com/ghpvc/?username=najnin26&style=for-the-badge&color=0e75b6&label=Profile+Views)
-
-🌱 _Curious by nature, coder by choice._
 
 ---
 
