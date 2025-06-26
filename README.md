@@ -1,6 +1,7 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=dbb8ff&text=I'm%20Najnin%20Shirin!&fontColor=black&animation=twinkling&textBg=false&fontAlign=50&fontSize=50&rotate=0&descAlign=50&desc=ML%20|%20DL%20|%20Quantum%20ML%20|%20Data%20Science%20Enthusiast&descSize=30&descAlignY=46&fontAlignY=25" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=I'm%20Najnin%20Shirin!&fontColor=black&animation=twinkling&textBg=false&fontAlign=50&fontSize=50&rotate=0&descAlign=50&desc=ML%20|%20DL%20|%20Quantum%20ML%20|%20Data%20Science%20Enthusiast&descSize=30&descAlignY=46&fontAlignY=25" />
 </div>
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=najnin26&"  />
 
 # 📋 Professional Summary
 🎓 I'm a final-year Computer Science student at [Jagannath University, Bangladesh](https://www.jnu.ac.bd/).
