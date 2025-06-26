@@ -6,7 +6,6 @@
     alt="Header Banner"
     style="margin-bottom: 25px;"
   />
-
   <!-- Typing SVG with colorful gradient & shadow -->
   <img
     src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=38&center=true&vCenter=true&width=520&height=80&duration=4000&pause=1500&color=gradient&background=00000000&lines=Curious+by+nature+✨;+Coder+by+choice+💻"
