@@ -75,7 +75,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=najnin26&theme=radical&hide_border=false&count_private=true" alt="GitHub Stats" />
 </picture>
 
-### 🔝 Top Contributed Repo
+# 🔝 Top Contributed Repo
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=najnin26&theme=github&hide_border=true" />
@@ -89,7 +89,7 @@
   <img height="180px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=najnin26&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="49%" />
 </div>
 
-## 🏆 GitHub Trophies
+# 🏆 GitHub Trophies
 
 <picture>
   <source srcset="https://github-profile-trophy.vercel.app/?username=najnin26&theme=radical&no-frame=false&no-bg=false&margin-w=4" media="(prefers-color-scheme: dark)" />
@@ -97,7 +97,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=najnin26&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
 </picture>
 
----
 
 ### ✍️ Random Dev Quote
 
