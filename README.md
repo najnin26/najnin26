@@ -57,7 +57,6 @@
 
 # 📊 GitHub Stats:
 
-
 <picture>
   <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=najnin26&theme=radical&layout=compact&hide_border=false&count_private=true" media="(prefers-color-scheme: dark)" />
   <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=najnin26&theme=default&layout=compact&hide_border=false&count_private=true" media="(prefers-color-scheme: light)" />
@@ -70,18 +69,17 @@
   <img src="https://github-readme-stats.vercel.app/api?username=najnin26&theme=radical&hide_border=false&count_private=true" alt="GitHub Stats" />
 </picture>
 
+<div align="left">
+  <img height="200px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=najnin26&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=false&count_private=true" alt="GitHub Stats"  />
+</div>
+
 # 🔝 Top Contributed Repo
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=najnin26&theme=github&hide_border=true" />
-</div>
-
-<div align="center">
+<div align="left">
   <img height="200px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=najnin26&theme=radical&include_all_commits=true&count_private=true&hide_border=false&count_private=true" alt="GitHub Profile Summary" />
 </div>
-
 <div align="center">
-  <img height="200px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=najnin26&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=false&count_private=true" alt="GitHub Stats" width="80%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=najnin26&theme=github&hide_border=true" />
 </div>
 
 # 🏆 GitHub Trophies
