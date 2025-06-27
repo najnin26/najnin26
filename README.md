@@ -57,11 +57,6 @@
 
 # 📊 GitHub Stats:
 
-<picture>
-  <source srcset="https://github-readme-streak-stats.herokuapp.com/?user=najnin26&theme=radical&hide_border=false" media="(prefers-color-scheme: dark)" />
-  <source srcset="https://github-readme-streak-stats.herokuapp.com/?user=najnin26&theme=default&hide_border=false" media="(prefers-color-scheme: light)" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=najnin26&theme=radical&hide_border=false" alt="GitHub Streak Stats" />
-</picture>
 
 <picture>
   <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=najnin26&theme=radical&layout=compact&hide_border=false&count_private=true" media="(prefers-color-scheme: dark)" />
