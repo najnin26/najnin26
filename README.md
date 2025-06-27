@@ -70,7 +70,7 @@
 </picture>
 
 <div align="left">
-  <img height="200px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=najnin26&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=false&count_private=true" alt="GitHub Stats"  />
+  <img height="200px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=najnin26&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=false&count_private=true" alt="GitHub Overall Stats"  />
 </div>
 
 # 🔝 Top Contributed Repo
