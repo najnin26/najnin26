@@ -82,7 +82,13 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=najnin26&theme=github&hide_border=true" />
 </div>
 
+# 🏆 GitHub Trophies
 
+<picture>
+  <source srcset="https://github-profile-trophy.vercel.app/?username=najnin26&theme=radical&no-frame=false&no-bg=false&margin-w=4" media="(prefers-color-scheme: dark)" />
+  <source srcset="https://github-profile-trophy.vercel.app/?username=najnin26&theme=flat&no-frame=false&no-bg=false&margin-w=4" media="(prefers-color-scheme: light)" />
+  <img src="https://github-profile-trophy.vercel.app/?username=najnin26&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+</picture>
 
 
 ### ✍️ Random Dev Quote
