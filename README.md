@@ -56,40 +56,17 @@
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) 
 
 # 📊 GitHub Stats:
-
-<picture>
-  <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=najnin26&theme=radical&layout=compact&hide_border=false&count_private=true" media="(prefers-color-scheme: dark)" />
-  <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=najnin26&theme=default&layout=compact&hide_border=false&count_private=true" media="(prefers-color-scheme: light)" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=najnin26&theme=radical&layout=compact&hide_border=false&count_private=true" alt="Top Langs" />
-</picture>
-
-<picture>
-  <source srcset="https://github-readme-stats.vercel.app/api?username=najnin26&theme=radical&hide_border=false&count_private=true" media="(prefers-color-scheme: dark)" />
-  <source srcset="https://github-readme-stats.vercel.app/api?username=najnin26&theme=default&hide_border=false&count_private=true" media="(prefers-color-scheme: light)" />
-  <img src="https://github-readme-stats.vercel.app/api?username=najnin26&theme=radical&hide_border=false&count_private=true" alt="GitHub Stats" />
-</picture>
-
-<div align="left">
-  <img height="200px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=najnin26&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=false&count_private=true" alt="GitHub Overall Stats"  />
+<div align="center">
+  <img src="https://yourinsights.vercel.app/api/insight?username=najnin26&theme=radical&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=false" alt="GitHub Insights" />
 </div>
 
 # 🔝 Top Contributed Repo
-
+<div align="left">
+  <img height="200px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=najnin26&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=false&count_private=true" alt="GitHub Overall Stats"  />
+</div>
 <div align="left">
   <img height="200px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=najnin26&theme=radical&include_all_commits=true&count_private=true&hide_border=false&count_private=true" alt="GitHub Profile Summary" />
 </div>
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=najnin26&theme=github&hide_border=true" />
-</div>
-
-# 🏆 GitHub Trophies
-
-<picture>
-  <source srcset="https://github-profile-trophy.vercel.app/?username=najnin26&theme=radical&no-frame=false&no-bg=false&margin-w=4" media="(prefers-color-scheme: dark)" />
-  <source srcset="https://github-profile-trophy.vercel.app/?username=najnin26&theme=flat&no-frame=false&no-bg=false&margin-w=4" media="(prefers-color-scheme: light)" />
-  <img src="https://github-profile-trophy.vercel.app/?username=najnin26&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
-</picture>
-
 
 ### ✍️ Random Dev Quote
 
