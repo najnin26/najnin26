@@ -15,7 +15,7 @@
 
 </div>
 
-I am a Computer Science graduate from Jagannath University, currently pursuing an MSc in Computer Science and Engineering at the same institution. As a Research Assistant at ELITE Research Lab, I focus on advancing quantum machine learning, deep learning, NLP, and artificial intelligence.
+I am a Computer Science graduate from Jagannath University, currently pursuing an MSc in Computer Science and Engineering at the same institution. I currently serve as a Research Assistant at the ELITE Research Lab, where I am working on quantum machine learning, machine learning, deep learning, NLP, and artificial intelligence. 
 
 My expertise spans Data Science, Computer Vision, and Python programming, with hands-on experience in both classical and quantum models, including CNNs, GNNs, Graph Signal Processing, QCNNs, and LLMs. I am passionate about bridging cutting-edge quantum approaches with real-world applications in healthcare and beyond, aiming to contribute impactful research at the intersection of AI and quantum technologies.
 
