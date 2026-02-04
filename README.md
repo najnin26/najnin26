@@ -83,5 +83,5 @@ My expertise spans Data Science, Computer Vision, and Python programming, with h
 </picture>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=fba0e3&text=Thanks%20for%20the%20visit!&fontColor=black&animation=twinkling&textBg=false&fontAlign=50&fontSize=31&rotate=0&descAlign=50&desc=May%20your%20commits%20be%20bug-free.%20🐛🚫&descAlignY=75&fontAlignY=55&section=footer" />
+  <img src="https://github.com/najnin26/najnin26/blob/main/github-header-banner%20(2).png" />
 </div>
