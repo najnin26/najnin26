@@ -1,11 +1,16 @@
 <div align="center" style="line-height: 1.4;">
   <!-- Capsule Render Banner -->
-  <img
+  <!-- <img
     src="https://capsule-render.vercel.app/api?type=waving&height=280&color=fba0e3&text=I'm%20Najnin%20Shirin!%20👋&fontColor=000000&animation=twinkling&textBg=false&fontAlign=50&fontSize=54&rotate=0&desc=ML%20|%20DL%20|%20Quantum%20ML%20|%20Data%20Science%20Enthusiast&descSize=28&descAlign=50&descAlignY=52&fontAlignY=30"
     alt="Header Banner"
     style="margin-bottom: 25px;"
-  />
+  /> -->
   <!-- Typing SVG with colorful gradient & shadow -->
+  <img
+    src="https://github.com/najnin26/najnin26/blob/main/github-header-banner.png"
+    alt="Header Banner"
+    style="margin-bottom: 25px; width:100%; height:auto;"
+/>
   <img
   src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=38&center=true&vCenter=true&width=520&height=80&duration=4000&pause=1500&color=fba0e3&background=00000000&lines=Curious+by+nature+✨;+Coder+by+choice+💻"
   alt="Typing Animation"
