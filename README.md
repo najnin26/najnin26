@@ -46,6 +46,13 @@ I am actively involved in research at the intersection of **Quantum Machine Lear
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/najninshirin)
 ![Profile Views](https://komarev.com/ghpvc/?username=najnin26&style=for-the-badge&color=0e75b6&label=Profile+Views)
 
+# 📑 Published Papers
+
+| Title | Description | Journal | Link |
+|-------|-------------|---------|------|
+| **Quantum computing in medical diagnostics and treatment: A systematic review of trends, challenges and future directions** | A comprehensive review of quantum computing applications in medical diagnostics and treatment, highlighting current trends, challenges, and future research directions. | *Intelligence-Based Medicine, Elsevier* | [🔗Paper](https://www.sciencedirect.com/science/article/pii/S2666521226000141?ref=pdf_download&fr=RR-2&rr=9d35eaea489fd4ed) · [🔗BibTeX](https://scholar.googleusercontent.com/scholar.bib?q=info:-3ALa1zIxN4J:scholar.google.com/&output=citation&scisdr=Cl89jrsKEMCgzDe_s8g:AFtJQiwAAAAAaZ65q8h2o2gp-aSKxUeLfFLYo4Y&scisig=AFtJQiwAAAAAaZ65q-JAw_6N0GTZ2OCv0xxZiww&scisf=4&ct=citation&cd=-1&hl=en) |
+
+
 # 🚀 Featured Projects
 
 | Project | Description | Tech Stack | Link |
