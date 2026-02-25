@@ -34,18 +34,12 @@ I am actively involved in research at the intersection of **Quantum Machine Lear
 - 🌐 Graph Neural Networks (GNNs) & Graph Signal Processing  
 - 🤖 Natural Language Processing with Transformer Models  
 - 🏥 AI Applications in Healthcare  
-
-### 📄 Publications & Profiles
-You can explore my research contributions here:
-
-[![Google Scholar](https://img.shields.io/badge/View_Publications-Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=YOUR_ID)
-[![Research Website](https://img.shields.io/badge/Explore-More_on_My_Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://yourwebsite.com)
-
   
 👯 I’m eager to collaborate on cutting-edge, research-driven projects in **Quantum Machine Learning**, **Artificial Intelligence**, **Machine Learning**, **Deep Learning** and **Computer Vision**, especially those with real-world impact.
 
 📫 **How to reach me:**
 
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=6t-c6IsAAAAJ&hl=en)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:najninshirin26@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/najnin-shirin-a909262a6)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Najnin26)
