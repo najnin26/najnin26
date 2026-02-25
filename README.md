@@ -24,12 +24,23 @@ I am a Computer Science graduate from Jagannath University, currently pursuing a
 
 My expertise spans Data Science, Computer Vision, and Python programming, with hands-on experience in both classical and quantum models, including CNNs, GNNs, Graph Signal Processing, QCNNs, and LLMs. I am passionate about bridging cutting-edge quantum approaches with real-world applications in healthcare and beyond, aiming to contribute impactful research at the intersection of AI and quantum technologies.
 
-🚀 Passionate about building intelligent systems that make a difference, especially in the fields of:
-- 🧬 **Quantum Machine Learning**
-- 🧠 **Machine Learning**
-- 🤖 **Deep Learning**
-- 👁️‍🗨️ **Computer Vision**
-- 📊 **Data Science**
+## 🔬 Check Out My Research Works
+
+I am actively involved in research at the intersection of **Quantum Machine Learning, Artificial Intelligence, and Graph-Based Deep Learning**. My work focuses on designing hybrid classical-quantum models and exploring advanced AI architectures for real-world applications, particularly in healthcare and intelligent systems.
+
+### 🧪 Current Research Areas
+- ⚛️ Quantum Machine Learning & Variational Quantum Circuits  
+- 🧠 Hybrid Quantum-Classical Deep Learning Models  
+- 🌐 Graph Neural Networks (GNNs) & Graph Signal Processing  
+- 🤖 Natural Language Processing with Transformer Models  
+- 🏥 AI Applications in Healthcare  
+
+### 📄 Publications & Profiles
+You can explore my research contributions here:
+
+[![Google Scholar](https://img.shields.io/badge/View_Publications-Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=YOUR_ID)
+[![Research Website](https://img.shields.io/badge/Explore-More_on_My_Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://yourwebsite.com)
+
   
 👯 I’m eager to collaborate on cutting-edge, research-driven projects in **Quantum Machine Learning**, **Artificial Intelligence**, **Machine Learning**, **Deep Learning** and **Computer Vision**, especially those with real-world impact.
 
