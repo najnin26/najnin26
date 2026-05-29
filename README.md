@@ -20,9 +20,9 @@
 
 </div>
 
-I am a Computer Science graduate from Jagannath University, currently pursuing an MSc in Computer Science and Engineering at the same institution. I currently working as a Senior Research Assistant at the ELITE Research Lab, where I am working on quantum machine learning, machine learning, deep learning, NLP, and artificial intelligence. 
+I am a Senior Research Assistant at ELITE Research Lab, working at the intersection of Artificial Intelligence and Quantum Computing. My research focuses on Quantum Neural Networks, Variational Quantum Circuits (VQCs), and Quantum Natural Language Processing (NLP), leveraging principles such as superposition, entanglement, and interference to design learning systems that extend beyond the capabilities of classical architectures. My work spans the full AI stack: from building parameterized quantum circuits for classification and optimization, to applying quantum-inspired models in NLP and Computer Vision. I am particularly interested in how hybrid classical–quantum systems can unlock new efficiencies and representations in machine learning. I have contributed to published research in this domain and continue to explore open problems that define the next generation of Quantum Machine Learning. My broader interests include Large Language Models, Graph Signal Processing, and Data Science, which complement my quantum research and enable me to think across multiple layers of the AI ecosystem.
 
-My expertise spans Data Science, Computer Vision, and Python programming, with hands-on experience in both classical and quantum models, including CNNs, GNNs, Graph Signal Processing, QCNNs, and LLMs. I am passionate about bridging cutting-edge quantum approaches with real-world applications in healthcare and beyond, aiming to contribute impactful research at the intersection of AI and quantum technologies.
+I am always open to connecting with researchers, practitioners, and innovators working on quantum AI, hybrid systems, or next-generation NLP. Let’s collaborate and shape the future of intelligent systems together.
 
 ## 🔬 Check Out My Research Works
 
